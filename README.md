@@ -1,0 +1,2 @@
+# Recognizing-Modern-Art-Movements-in-Painting-with-Deep-Learning-driven-Image-Classification
+This projects aims to discuss the construction of a deep learning-driven classifier that is able to accurately recognize modern art movement in paintings. Data set can be found Kaggle, “Painters by numbers”, 2016. Available at: https://www.kaggle.com/c/painter-by-numbers/overview [Last accessed on 29.08.2019].
